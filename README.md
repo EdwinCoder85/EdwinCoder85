@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Amaranto</h1>
-<h3 align="justify">Ingeniero de Sistemas e Informática, y egresado del Programa Full-Stack Web Development de ACADEMLO. Me desempeño como Programador Frontend y con algunos proyectos web realizados con React, Redux, Tailwind, NodeJs, Sequelize, PostgreSQL, y desplegados en GitHub, GitLab, Netlify y fl0 especializándome en tecnologías emergentes de frontend y buenas prácticas de programación🌟.</h3>
+<h3 align="justify">I am a Systems and Informatics Engineer, and a graduate of the Full-Stack Web Development Program at ACADEMLO. I work as a Frontend Programmer with experience in various web projects using technologies such as React, Redux, Tailwind, NodeJs, Sequelize, and PostgreSQL. I have deployed projects on GitHub, GitLab, Netlify, and fl0, specializing in emerging frontend technologies and adhering to good programming practices🌟.</h3>
 
 <br>
 
