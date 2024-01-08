@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **edwinamarantovillegas@gmail.com**
 
-- ⚡ Fun fact: - Physical exercise, movies, going for a walk, food and music🎵 are the reasons to live.
+- ⚡ Fun fact: - Physical exercise, movies, :walking: going for a walk, food and music🎵 are the reasons to live.
 
 <br>
 
