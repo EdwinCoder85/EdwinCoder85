@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Amaranto</h1>
-<h3 align="justify">I am a Systems and Informatics Engineer, and a graduate of the Full-Stack Web Development Program at ACADEMLO. I work as a Frontend Programmer with experience in various web projects using technologies such as React, Redux, Tailwind, NodeJs, Sequelize, and PostgreSQL. I have deployed projects on GitHub, GitLab, Netlify, and fl0, specializing in emerging frontend technologies and adhering to good programming practices🌟.</h3>
+<h3 align="justify">I am a Systems and Informatics Engineer, and a :mortar_board: graduate of the Full-Stack Web Development Program at ACADEMLO. I work as a Frontend Programmer with experience in various web projects using technologies such as React, Redux, Tailwind, NodeJs, Sequelize, and PostgreSQL. I have deployed projects on GitHub, GitLab, Netlify, and fl0, specializing in emerging frontend technologies and adhering to good programming practices🌟.</h3>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **edwinamarantovillegas@gmail.com**
 
-- ⚡ Fun fact: - Physical exercise, movies, :walking: going for a walk, food and music🎵 are the reasons to live.
+- ⚡ Fun fact: - Physical exercise, watch movies, :walking: going for a walk, food and music🎵 are the reasons to live.
 
 <br>
 
