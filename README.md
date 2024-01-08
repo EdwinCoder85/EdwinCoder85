@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: - Physical exercise, :movie_camera: watch movies, :walking: going for a walk, food and music🎵 are the reasons to live.
 
-<br>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
