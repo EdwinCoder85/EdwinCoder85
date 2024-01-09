@@ -34,6 +34,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SVG-Dark.svg" style="height: 4rem"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" style="height: 4rem"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" style="height: 4rem; background-color:white"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" style="height: 4rem; background-color:white"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" style="height:4rem; background-color:white"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" style="height:4rem; background-color:white"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" style="height:4rem; background-color:white"/>
