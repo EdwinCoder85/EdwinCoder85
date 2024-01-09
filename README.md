@@ -40,14 +40,14 @@
 </p>
 
 <p>
-  <img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <img width="5%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <br />
-  <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-  <img width="5%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-  <img width="5%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
   <br />
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
