@@ -37,6 +37,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" style="height:4rem; background-color:white"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" style="height: 4rem; background-color:white"/>
 </p>
 
 ---
