@@ -40,10 +40,10 @@
 </p>
 
 <p>
-  <code><img width="15%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg"></code>
+  <code><img width="10%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
