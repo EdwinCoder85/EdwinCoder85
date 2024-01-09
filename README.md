@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and tools:</h3>
 <p align="center">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" style="height: 4rem; margin-left: 1rem"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" style="height: 4rem"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 4rem; background-color:white"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="height: 4rem"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="height: 4rem"/>
